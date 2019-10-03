@@ -1,2 +1,3 @@
 # datascience
-For Data Science
+Repository for personal practice for data science.
+Still working for it.
